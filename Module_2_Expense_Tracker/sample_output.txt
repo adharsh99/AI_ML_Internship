@@ -1,0 +1,71 @@
+========================================
+       EXPENSE TRACKER APPLICATION
+========================================
+
+1. Add Expense
+2. View All Expenses
+3. Search Expense
+4. Update Expense
+5. Delete Expense
+6. Expense Summary
+7. Monthly Report
+8. Generate Reports
+9. Exit
+
+Enter your choice: 1
+
+========================================
+             ADD EXPENSE
+========================================
+
+Enter date (YYYY-MM-DD): 2026-08-07
+
+Available Categories:
+- Food
+- Travel
+- Shopping
+- Bills
+- Education
+- Entertainment
+- Health
+- Other
+
+Enter category: Food
+Enter description: Lunch
+Enter amount: 250
+
+Payment Methods:
+- Cash
+- UPI
+- Card
+- Net Banking
+
+Enter payment method: UPI
+
+Expense added successfully!
+Expense ID: 1
+
+
+========================================
+       EXPENSE TRACKER APPLICATION
+========================================
+
+1. Add Expense
+2. View All Expenses
+3. Search Expense
+4. Update Expense
+5. Delete Expense
+6. Expense Summary
+7. Monthly Report
+8. Generate Reports
+9. Exit
+
+Enter your choice: 2
+
+_____________________________________________
+             ALL EXPENSES
+_____________________________________________
+
+ID   Date           Category       Description          Amount
+-------------------------------------------------------------------------------------
+1    2026-08-07     Food           Lunch                ₹250.00

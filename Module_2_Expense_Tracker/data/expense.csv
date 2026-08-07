@@ -1,0 +1,6 @@
+id,date,category,description,amount,payment_method
+1,2026-08-01,Food,Breakfast,120,UPI
+2,2026-08-02,Travel,Bus Ticket,80,Cash
+3,2026-08-03,Shopping,Notebook,250,Card
+4,2026-08-04,Food,Lunch,200,UPI
+5,2026-08-05,Education,Course Material,500,UPI
