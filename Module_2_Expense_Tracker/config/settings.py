@@ -58,6 +58,7 @@ CATEGORIES = [
 
 
 # Payment methods
+
 PAYMENT_METHODS = [
     "Cash",
     "UPI",
