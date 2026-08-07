@@ -1,2 +1,4 @@
 id,date,category,description,amount,payment_method
 1,2026-07-05,Travel,araku,4000,Cash
+2,2026-09-08,Food,BIRYANI,599,Upi
+3,2026-09-08,Other,party,3000,Card

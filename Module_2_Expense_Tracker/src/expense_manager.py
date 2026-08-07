@@ -55,15 +55,15 @@ class ExpenseManager:
 
         for expense in expenses:
 
-            if expense["id"] == expense_id:
+            if expense["id"].strip() == expense_id.strip():
 
                 for key, value in updated_data.items():
-
                     if value:
                         expense[key] = str(value)
 
                 write_expenses(expenses)
-                self.expenses = expenses
+
+                self.expenses = read_expenses()
 
                 return True
 
@@ -101,11 +101,12 @@ class ExpenseManager:
         summary = {}
 
         for expense in expenses:
-
             category = expense["category"]
             amount = float(expense["amount"])
 
-            summary[category] = summary.get(category, 0) + amount
+            summary[category] = (
+                summary.get(category, 0) + amount
+            )
 
         return summary
 
@@ -115,10 +116,12 @@ class ExpenseManager:
         summary = {}
 
         for expense in expenses:
-
             month = expense["date"][:7]
             amount = float(expense["amount"])
 
-            summary[month] = summary.get(month, 0) + amount
+            summary[month] = (
+                summary.get(month, 0) + amount
+            )
 
         return summary
+    

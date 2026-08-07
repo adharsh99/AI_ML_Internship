@@ -8,5 +8,19 @@ Description: araku
 Amount: ₹4,000.00
 Payment Method: Cash
 ----------------------------------------------------------------------
+ID: 2
+Date: 2026-09-08
+Category: Food
+Description: BIRYANI
+Amount: ₹599.00
+Payment Method: Upi
+----------------------------------------------------------------------
+ID: 3
+Date: 2026-09-08
+Category: Other
+Description: party
+Amount: ₹3,000.00
+Payment Method: Card
+----------------------------------------------------------------------
 
-TOTAL EXPENSE: ₹4,000.00
+TOTAL EXPENSE: ₹7,599.00
