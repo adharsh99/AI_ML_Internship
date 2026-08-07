@@ -1,0 +1,15 @@
+
+---
+
+# 2. `requirements.txt`
+
+Open the root **`requirements.txt`** and paste:
+
+```text
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+jupyter
+notebook
