@@ -1,4 +1,8 @@
 id,date,category,description,amount,payment_method
-1,2026-07-05,Travel,araku,4000,Cash
-2,2026-09-08,Food,BIRYANI,599,Upi
-3,2026-09-08,Other,party,3000,Card
+1,2020-02-04,Bills,clothes,2000,Upi
+2,2025-09-08,Education,BTECH,120000,Cash
+3,2026-02-05,Travel,GOA,18000,Upi
+4,2026-02-18,Food,BIRYANI,599,Upi
+5,2026-05-08,Travel,NAGAGRJUNA SAGAR,2000,Cash
+6,2024-09-09,Travel,ARAKU,9000,Upi
+7,2026-05-07,Education,BTECH,100000,Cash
