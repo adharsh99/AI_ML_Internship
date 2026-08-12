@@ -1,26 +1,66 @@
-EXPENSE REPORT
-======================================================================
-
 ID: 1
-Date: 2026-07-05
-Category: Travel
-Description: araku
-Amount: ₹4,000.00
-Payment Method: Cash
-----------------------------------------------------------------------
+Date: 2020-02-04
+Category: Bills
+Description: clothes
+Amount: ₹2,000.00
+Payment Method: Upi
+
+-----------------------------------------------------------
+
 ID: 2
-Date: 2026-09-08
+Date: 2025-09-08
+Category: Education
+Description: BTECH
+Amount: ₹120,000.00
+Payment Method: Cash
+
+-----------------------------------------------------------
+
+ID: 3
+Date: 2026-02-05
+Category: Travel
+Description: GOA
+Amount: ₹18,000.00
+Payment Method: Upi
+
+-----------------------------------------------------------
+
+ID: 4
+Date: 2026-02-18
 Category: Food
 Description: BIRYANI
 Amount: ₹599.00
 Payment Method: Upi
-----------------------------------------------------------------------
-ID: 3
-Date: 2026-09-08
-Category: Other
-Description: party
-Amount: ₹3,000.00
-Payment Method: Card
-----------------------------------------------------------------------
 
-TOTAL EXPENSE: ₹7,599.00
+-----------------------------------------------------------
+
+ID: 5
+Date: 2026-05-08
+Category: Travel
+Description: NAGAGRJUNA SAGAR
+Amount: ₹2,000.00
+Payment Method: Cash
+
+-----------------------------------------------------------
+
+ID: 6
+Date: 2024-09-09
+Category: Travel
+Description: ARAKU
+Amount: ₹9,000.00
+Payment Method: Upi
+
+-----------------------------------------------------------
+
+ID: 7
+Date: 2026-05-07
+Category: Education
+Description: BTECH
+Amount: ₹100,000.00
+Payment Method: Cash
+
+-----------------------------------------------------------
+
+# EXPENSE REPORT
+
+TOTAL EXPENSE: ₹251,599.00
