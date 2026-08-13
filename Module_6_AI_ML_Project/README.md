@@ -103,7 +103,7 @@ python -m streamlit run main.py
 ### 5. Open in Browser
 
 The application will provide a local URL such as:
-http://localhost:8502
+ http://localhost:8502
 
 ## 🤖 Machine Learning Model
 
