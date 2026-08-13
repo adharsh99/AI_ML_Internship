@@ -1,0 +1,6 @@
+job_role,required_skills
+Python Developer,"Python,SQL,Django,FastAPI,Git,REST API"
+Data Analyst,"Python,SQL,Pandas,NumPy,Excel,Power BI"
+Machine Learning Engineer,"Python,Machine Learning,Scikit-learn,NumPy,Pandas,Git"
+Full Stack Developer,"Python,HTML,CSS,JavaScript,React,Django,Git"
+AI Engineer,"Python,Machine Learning,Deep Learning,Git,FastAPI"
